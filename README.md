@@ -1,8 +1,8 @@
-<h1>Splunk- Create Table and Dashboard</h1>
+<h1>Splunk- Real-Time Log Analysis and Monitoring Dashboards </h1>
 
 
 <h2>Description</h2>
-
+This project demonstrates how to use Splunk Enterprise to ingest, analyze, and visualize log data through interactive tables and dashboards. The lab setup walks through creating data inputs, running queries, and building custom dashboards based on application, system, and security logs to monitor system performance and security events. Splunk will be used in my home lab setup as the main SIEM tool.
 <br />
 
 
@@ -14,6 +14,15 @@
 
 - <b>Windows 11</b>
 - <b>VMWare</b>
+
+<h2>Skills Gained</h2>
+
+
+-  Log Ingestion and Parsing: Configuring data inputs for real-time monitoring.
+-  Search Query Development: Using SPL for filtering, reporting, and alerts.
+-  Dashboard Design: Building interactive widgets and visualizations.
+-  Data Security Monitoring: Analyzing logs for anomalies and potential attacks.
+-  Incident Response Analysis: Investigating events using logs and metrics.
 
 <h2>Splunk Tasks:</h2>
 
@@ -30,18 +39,7 @@ Customize Dashboard by Removing Unneccesary Data <br/>
 <img src="https://imgur.com/hZRRcgz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+<h2>Summary</h2>
+This project showcases the use of Splunk Enterprise to create interactive dashboards and tables for log analysis, security monitoring, and performance insights. It focuses on ingesting logs, running SPL queries, and visualizing data to track system activities, detect anomalies, and investigate incidents.
+
