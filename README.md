@@ -1,4 +1,4 @@
-<h1>Splunk- Create Dashboard</h1>
+<h1>Splunk- Create Table and Dashboard</h1>
 
 
 <h2>Description</h2>
@@ -15,19 +15,19 @@
 - <b>Windows 11</b>
 - <b>VMWare</b>
 
-<h2>Program walk-through:</h2>
+<h2>Splunk Tasks:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Table <br/>
+<img src="https://imgur.com/Kv2MduI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create Dashboard <br/>
+<img src="https://imgur.com/opA3c76.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Customize Dashboard by Removing Unneccesary Data <br/>
+<img src="https://imgur.com/hZRRcgz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
